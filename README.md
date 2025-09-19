@@ -10,8 +10,8 @@ This exercise helps understand how to manage state, toggle UI elements, and use 
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="[![1.png](https://i.postimg.cc/Hk629scX/1.png)](https://postimg.cc/3kDmKhZx) " alt="Screenshot 1" width="300"/>
-  <img src="[![2.png](https://i.postimg.cc/N0LxJqmV/2.png)](https://postimg.cc/t1QPJcrt)" alt="Screenshot 2" width="300"/>
+  <img src="https://i.postimg.cc/Hk629scX/1.png" alt="Screenshot 1" width="300"/>
+  <img src="https://i.postimg.cc/N0LxJqmV/2.png" alt="Screenshot 2" width="300"/>
 </p>
 
 ---
